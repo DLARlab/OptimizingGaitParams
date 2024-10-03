@@ -48,7 +48,7 @@ hen press the ‘6’ key to switch the FSM from **FixedStand** to **Bounding_SL
 
 ### Hardware implementation
 
-Download the code from "hardware branch". Connect a cable to your computer with the robot or download the entire folder on your robot computer.
+Download the code from "hardware" branch. Connect a cable to your computer with the robot or download the entire folder on your robot computer.
 
 Assme you connect your robot with a cable, set the local IP address as 192.168.123.xxx. Then ping 192.168.123.161 to make sure your computer can communicate with robot.
 
