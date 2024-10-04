@@ -1,3 +1,10 @@
+## Video
+
+
+https://github.com/user-attachments/assets/d8e0904b-6cea-495f-9e85-9ea55c721029
+
+0.5m/s with stride time 0.14
+
 ## Publications
 
 This work has been submitted to the ACC 2024.
