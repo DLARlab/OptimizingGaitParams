@@ -30,9 +30,7 @@ https://github.com/user-attachments/assets/6eb390ad-0c1a-4d8a-b60b-90a1b9ed0751
 
 ## Publications
 
-This work has been submitted to the ACC 2024.
-
-If you use this work in an academic context, please cite the following publication:
+Y. G. Alqaham, J. Cheng and Z. Gan, "Refining Motion for Peak Performance: Identifying Optimal Gait Parameters for Energy-Efficient Quadrupedal Bounding," 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 3794-3800, doi: 10.23919/ACC63710.2025.11107530.
 
 ## Requirements
 ### Environment
